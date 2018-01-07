@@ -12,7 +12,7 @@ Contributor : collet_j
 
 # 104intersection
 
-To code a software to create synthesis images (it may remind you something....), potential intersection points between light rays and scene objects (here cylinders, spheres and cones) must be computed.
+Create synthesis images, potential intersection points between light rays and scene objects (here cylinders, spheres and cones).
 
 This is exactly what you have to do.
 
